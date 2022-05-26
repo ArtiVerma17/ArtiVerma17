@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtiVerma17
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning deep learnign algorithm
+- 🌱 I’m currently learning deep learning algorithms
 - 💞️ I’m looking to collaborate on deep learning algorithms
 - 📫 How to reach me verma.arti17@gmail.com
 
